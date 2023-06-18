@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -14,18 +14,19 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: black;
+  background-image: url("https://media.istockphoto.com/id/1155947181/vector/fathers-day-card-of-frame-with-paper-holiday-icons.jpg?s=612x612&w=0&k=20&c=eHn2n75DRsK3jFz1wBYs6SW2RCHaE8B09YEjxVJ6qXU=");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .App-link {
-  color: #61dafb;
+  color: black;
 }
 
 @keyframes App-logo-spin {
