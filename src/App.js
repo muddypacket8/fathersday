@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="spin.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          HAPPY FATHERS DAY.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://youtu.be/n8n-PDVYgu4"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          courtesy of you day
         </a>
       </header>
     </div>
